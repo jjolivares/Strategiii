@@ -2,5 +2,5 @@
 
 ## Funcionalidades
 
-+ 64 unidades diferentes!!
-+ La **mejor IA** jamás vista!
++ ¡64 unidades diferentes!
++ ¡La **mejor IA** jamás vista!
