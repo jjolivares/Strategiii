@@ -7,5 +7,5 @@
 
 |Nombre|Apellido|
 |---|--------------|
-|Guido|van Rossum|
+|Guido|Van Rossum|
 |Dennis|Ritchie|
