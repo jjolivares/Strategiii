@@ -4,3 +4,8 @@
 
 + ¡64 unidades diferentes!
 + ¡La **mejor IA** jamás vista!
+
+|Nombre|Apellido|
+|---|--------------|
+|Guido|van Rossum|
+|Dennis|Ritchie|
